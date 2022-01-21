@@ -1,5 +1,8 @@
 # arduino
  
+ **https://www.tinkercad.com/things/46D67SujmRQ**
+ ![Picture](https://user-images.githubusercontent.com/94222074/150573977-46b2483f-d107-4554-9c81-623e4029255f.jpg)
+ 
 ## 🔴Instruction for arduino Project:<br>
 The newly appointed Minister of Agriculture has decided to improve the lives of avocado consumers in the country with the help of a policy of "sending avocados to the writer according to the level of ripeness."
 It is known that avocados have 3 ripe grades (1- lowest level, 3- highest level), you must design a packing house that will work according to the new policy.
@@ -25,4 +28,4 @@ The packing house works as follows:
 🔹 When a box is thrown in the trash it means that no more information is kept on it.
 
 When exercising you need to think about extreme cases and address them in code. You must use detailed documentation within the code.
-![Picture](https://user-images.githubusercontent.com/94222074/150573977-46b2483f-d107-4554-9c81-623e4029255f.jpg)
+
